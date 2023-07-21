@@ -30,6 +30,12 @@ import carrent from "./kbs.png";
 import jobit from "./ksf.png";
 import tripguide from "./ecofr.png";
 
+import upyouth from "./upyouth.png";
+import junctionvn from "./junctionvn.png";
+import web3space from "./web3space.png";
+
+import myself from "./myself.png";
+
 export {
   logo,
   backend,
@@ -59,4 +65,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  upyouth,
+  junctionvn,
+  web3space,
+  myself,
 };

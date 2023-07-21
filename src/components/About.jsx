@@ -7,6 +7,18 @@ import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 
+import { myselfinfo } from "../constants";
+
+const MySelf = ({ image }) => (
+  <motion.div variants={fadeIn("", "", 0.1, 1)} className="xs:w-[20%] md:w-[30%] flex justify-center w-full">
+          <img
+            src={image}
+            alt="myself"
+            className="xs:w-auto xs:max-h-[357px] w-[50%]"
+          />
+  </motion.div>
+)
+
 const ServiceCard = ({ index, title, icon }) => (
   <Tilt className='xs:w-[250px] w-full'>
     <motion.div
@@ -59,13 +71,9 @@ const About = () => {
           </motion.p>
         </div>
 
-        <motion.div variants={fadeIn("", "", 0.1, 1)} className="xs:w-[20%] md:w-[30%] flex justify-center w-full">
-          <img
-            src="src\assets\myself.png"
-            alt="myself"
-            className="xs:w-auto xs:max-h-[357px] w-[50%]"
-          />
-        </motion.div>
+        {myselfinfo.map((image, index) => (
+          <MySelf key={myselfinfo.name} index={index} {...image} />
+        ))}
       </div>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -23,6 +23,10 @@ import {
     jobit,
     tripguide,
     threejs,
+    upyouth,
+    junctionvn,
+    web3space,
+    myself,
   } from "../assets";
   
   export const navLinks = [
@@ -39,6 +43,12 @@ import {
       title: "Contact",
     },
   ];
+
+  const myselfinfo = [
+    {
+      image: myself,
+    }
+  ]
   
   const services = [
     {
@@ -176,7 +186,7 @@ import {
       name: "HackYouth 2023",
       designation: "Hackathon",
       company: "UpYouth - VinUni",
-      image: "/src/assets/upyouth.jpg",
+      image: upyouth,
     },
     {
       testimonial:
@@ -184,7 +194,7 @@ import {
       name: "JunctionX Hanoi 2023",
       designation: "Hackathon",
       company: "Junction Vietnam",
-      image: "/src/assets/junctionvn.jpg",
+      image: junctionvn,
     },
     {
       testimonial:
@@ -192,7 +202,7 @@ import {
       name: "Road to Grizzlython 2023",
       designation: "Hackathon",
       company: "Web3 Space",
-      image: "/src/assets/web3space.jpg",
+      image: web3space,
     },
   ];
   
@@ -262,4 +272,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, testimonials, projects, myselfinfo };
