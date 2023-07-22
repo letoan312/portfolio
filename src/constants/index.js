@@ -213,7 +213,7 @@ import {
         "A 3D representation of the Kawai Business Startup's logo as a crystal. The 3D model was created using Blender 3D.",
       tags: [
         {
-          name: "blender",
+          name: "blender-3d",
           color: "green-text-gradient",
         },
         {
@@ -234,7 +234,7 @@ import {
         "Kawai Startup Fair 2023's name designed with a Y2K/Aespa vibe.",
       tags: [
         {
-          name: "blender",
+          name: "blender-3d",
           color: "green-text-gradient",
         },
         {
