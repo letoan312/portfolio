@@ -29,6 +29,7 @@ import tesla from "./company/allblue02.png";
 import carrent from "./kbs.png";
 import jobit from "./ksf.png";
 import tripguide from "./ecofr.png";
+import kbs24 from "./kbs24.png";
 
 import upyouth from "./upyouth.png";
 import junctionvn from "./junctionvn.png";
@@ -65,6 +66,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  kbs24,
   upyouth,
   junctionvn,
   web3space,

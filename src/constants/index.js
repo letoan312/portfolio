@@ -20,6 +20,7 @@ import {
     tesla,
     shopify,
     carrent,
+    kbs24,
     jobit,
     tripguide,
     threejs,
@@ -161,7 +162,7 @@ import {
         "Moderated TEC FTU's social media channels, which held over 300,000 followers and 250,000 likes.",
         "Participated in branding Kawai Business Startup, a nationwide-scale startup idea competition held annually by TEC FTU to thousands of audience.",
         "Created the 3D branding kits of Kawai Business Startup 2023's 2nd Round and Kawai Startup Fair 2023, which were record-holding in terms of online reach and engagement.",
-        "Lead 33 members to organize and a team of 12 to advertize the Grand Finale of Kawai Business Startup 2023, which accumulated over 10,000 interested entreprenuers.",
+        "Lead 33 members to organize and a team of 12 to advertize the Grand Finale of Kawai Business Startup 2023, which accumulated over 10,000 interested entrepreneurs.",
       ],
     },
     {
@@ -221,8 +222,30 @@ import {
   ];
   
   const projects = [
+    // project image size: 2880*2048px //
     {
-      name: "KBS 2023 - 2nd Round Branding Kit",
+      name: "Kawai Bussiness Startup 2024 Concept Art",
+      description:
+        "A 3D representation of the Kawai Business Startup's logo as a scifi construction. The art represents young entrepreneurs rising amidst the so called funding winter of the startup community.",
+      tags: [
+        {
+          name: "blender-3d",
+          color: "green-text-gradient",
+        },
+        {
+          name: "photoshop",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "illustrator",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: kbs24,
+      source_code_link: "https://drive.google.com/drive/folders/1Dd79C4eszfYYwCiiXtiSxuQ0OEV12xKS?usp=drive_link",
+    },
+    {
+      name: "KBS 2023 - 2nd Round Concept Art",
       description:
         "A 3D representation of the Kawai Business Startup's logo as a crystal. The 3D model was created using Blender 3D.",
       tags: [
@@ -243,7 +266,7 @@ import {
       source_code_link: "https://drive.google.com/drive/folders/1svvSX66Y8hHdYZb5z3wAlGD2MqMs2g5a?usp=sharing",
     },
     {
-      name: "Kawai Startup Fair 2023 Branding Kit",
+      name: "Kawai Startup Fair 2023 Concept Art",
       description:
         "Kawai Startup Fair 2023's name designed with a Y2K/Aespa vibe.",
       tags: [
