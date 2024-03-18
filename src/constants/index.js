@@ -242,7 +242,7 @@ import {
         },
       ],
       image: kbs24,
-      source_code_link: "https://drive.google.com/drive/folders/1Dd79C4eszfYYwCiiXtiSxuQ0OEV12xKS?usp=drive_link",
+      source_code_link: "https://drive.google.com/drive/folders/1ExdfeSMxcRnkRM9dXIlAXDDNEq1igyuc?usp=drive_link",
     },
     {
       name: "KBS 2023 - 2nd Round Concept Art",
