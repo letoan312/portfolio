@@ -226,7 +226,7 @@ import {
     {
       name: "Kawai Bussiness Startup 2024 Concept Art",
       description:
-        "A 3D representation of the Kawai Business Startup's logo as a scifi construction. The art represents young entrepreneurs rising amidst the so called funding winter of the startup community.",
+        "A 3D representation of the Kawai Business Startup's logo as a scifi construction. The art represents young entrepreneurs rising amidst the so called &quot;funding winter&quot; of the startup community.",
       tags: [
         {
           name: "blender-3d",
