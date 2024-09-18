@@ -23,6 +23,7 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/ecofr.png";
 import shopify from "./company/tec.png";
+import anyaxis from "./company/aa.png";
 import starbucks from "./company/sags.png";
 import tesla from "./company/allblue02.png";
 
@@ -30,6 +31,8 @@ import carrent from "./kbs.png";
 import jobit from "./ksf.png";
 import tripguide from "./ecofr.png";
 import kbs24 from "./kbs24.png";
+import kbs24final from "./kbs24final.png";
+import aaprj from "./aaprj.png";
 
 import upyouth from "./upyouth.png";
 import junctionvn from "./junctionvn.png";
@@ -61,12 +64,15 @@ export {
   threejs,
   meta,
   shopify,
+  anyaxis,
   starbucks,
   tesla,
   carrent,
   jobit,
   tripguide,
   kbs24,
+  kbs24final,
+  aaprj,
   upyouth,
   junctionvn,
   web3space,

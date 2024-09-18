@@ -19,8 +19,11 @@ import {
     starbucks,
     tesla,
     shopify,
+    anyaxis,
     carrent,
     kbs24,
+    kbs24final,
+    aaprj,
     jobit,
     tripguide,
     threejs,
@@ -166,7 +169,19 @@ import {
       ],
     },
     {
-      title: "Deputy Head of Communications Department",
+      title: "Co-Founder / UI-UX Designer",
+      company_name: "EcoFrenzy Startup/RiseUp Squad",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "Jan 2023 - Jan 2024",
+      points: [
+        "Co-Founded EcoFrenzy, a startup that aims to promote Sustainablity through a social media application.",
+        "Participated in a team of 12 talents from HUST, UEH, FPT, and FTU to develop the product to the Prototype stage, and continuously improving it to adapt to the needs and problems of the market.",
+        "Validated the idea through several contests and achieved Top 01 in two Hackathons, where the team extensively worked to plan and build the product.",
+      ],
+    },
+    {
+      title: "Deputy Head of Communications Department / Art Director",
       company_name: "Tommorow Entrepreneurs Club (TEC FTU)",
       icon: shopify,
       iconBg: "#383E56",
@@ -175,21 +190,20 @@ import {
         "Leading 54 members to organize and a team of 13 to advertize Kawai Business Startup 2024.",
         "Trained a team of 6 the nessessary skills to provide art and illustrations for the IMC plan of Kawai Bussiness Startup 2024.",
         "Directing the art and visual of TEC FTU's social media channels.",
-        "Created the 3D branding kits of Kawai Business Startup 2024, which once again held records in terms of online reach and engagement.",
-        "Supervising the process of designing the branding kits of Kawai Bussiness Startup 2024's 2nd round and Kawai Startup Fair 2024.",
+        "Created the official 3D branding kits of Kawai Business Startup 2024 and it's Grand Finale, which once again held records in terms of online reach and engagement.",
+        "Supervised the process of designing the branding kits of Kawai Bussiness Startup 2024's 2nd round and Kawai Startup Fair 2024.",
       ],
     },
     {
-      title: "Co-Founder / UI-UX Designer",
-      company_name: "EcoFrenzy Startup/RiseUp Squad",
-      icon: meta,
+      title: "Graphic Designer / UI-UX Designer",
+      company_name: "AnyAxis Labs",
+      icon: anyaxis,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Co-Founded EcoFrenzy, a startup that aims to promote Sustainablity through a social media application.",
-        "Participated in a team of 12 talents from HUST, UEH, FPT, and FTU to develop the product to the Prototype stage, and continuously improving it to adapt to the needs and problems of the market.",
-        "Validated the idea through several contests and achieved Top 01 in two Hackathons, where the team extensively worked to plan and build the product.",
-        "Connected with several successful individuals for advice.",
+      date: "Apr 2024 - Present",
+      points: [ 
+        "Designed and implemented user-friendly interfaces for web and mobile applications, enhancing user experience and engagement.",
+        "Created arts and designs for 05+ social media platforms in the Web3 space, enhancing brand visibility and engagement through innovative and visually appealing content.",
+        "Created pitch decks and presentations for client proposals and internal meetings, effectively communicating complex ideas and securing stakeholder buy-in.",
       ],
     },
   ];
@@ -243,6 +257,27 @@ import {
       ],
       image: kbs24,
       source_code_link: "https://drive.google.com/drive/folders/1ExdfeSMxcRnkRM9dXIlAXDDNEq1igyuc?usp=drive_link",
+    },
+    {
+      name: "Kawai Business Startup 2024 Grand Finale Concept Art",
+      description:
+        "KBS 2024's Grand Finale official theme, representing the previous illustration taking flight to the sky.",
+      tags: [
+        {
+          name: "blender-3d",
+          color: "green-text-gradient",
+        },
+        {
+          name: "photoshop",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "illustrator",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: kbs24final,
+      source_code_link: "https://drive.google.com/drive/folders/1WLOsf4D2y9CPA2PHrcRlCAsKL9j6LLew?usp=sharing",
     },
     {
       name: "KBS 2023 - 2nd Round Concept Art",
@@ -306,6 +341,27 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://drive.google.com/file/d/1HdD2S2nDzn2EmbDwchYKKbQTqDy3bm7u/view?usp=sharing",
+    },
+    {
+      name: "AnyAxis Labs",
+      description:
+        "A folder of my works at AnyAxis Labs.",
+      tags: [
+        {
+          name: "web3",
+          color: "green-text-gradient",
+        },
+        {
+          name: "social-media",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "ui-ux-design",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: aaprj,
+      source_code_link: "https://drive.google.com/drive/folders/1C0JPg-mni0Yux1EQcoIQwrEjgioFKuF1?usp=sharing",
     },
   ];
   
