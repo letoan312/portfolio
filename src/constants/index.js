@@ -343,12 +343,12 @@ import {
       source_code_link: "https://drive.google.com/file/d/1HdD2S2nDzn2EmbDwchYKKbQTqDy3bm7u/view?usp=sharing",
     },
     {
-      name: "AnyAxis Labs",
+      name: "My other works",
       description:
-        "A folder of my works at AnyAxis Labs.",
+        "A folder of my works as a Designer",
       tags: [
         {
-          name: "web3",
+          name: "poster-design",
           color: "green-text-gradient",
         },
         {
