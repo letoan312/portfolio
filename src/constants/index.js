@@ -161,6 +161,7 @@ import {
       iconBg: "#383E56",
       date: "Oct 2022 - Nov 2023",
       points: [
+        "Pioneered the use of 3D art in FTU's event concept arts.",
         "Developed and moderated 06 websites owned by TEC FTU.",
         "Moderated TEC FTU's social media channels, which held over 300,000 followers and 250,000 likes.",
         "Participated in branding Kawai Business Startup, a nationwide-scale startup idea competition held annually by TEC FTU to thousands of audience.",
@@ -188,7 +189,7 @@ import {
       date: "Nov 2023 - Present",
       points: [ 
         "Leading 54 members to organize and a team of 13 to advertize Kawai Business Startup 2024.",
-        "Trained a team of 6 the nessessary skills to provide art and illustrations for the IMC plan of Kawai Bussiness Startup 2024.",
+        "Trained a team of 06 the nessessary skills to provide art and illustrations for the IMC plan of Kawai Bussiness Startup 2024.",
         "Directing the art and visual of TEC FTU's social media channels.",
         "Created the official 3D branding kits of Kawai Business Startup 2024 and it's Grand Finale, which once again held records in terms of online reach and engagement.",
         "Supervised the process of designing the branding kits of Kawai Bussiness Startup 2024's 2nd round and Kawai Startup Fair 2024.",
