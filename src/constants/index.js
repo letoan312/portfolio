@@ -356,7 +356,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "ui-ux-design",
+          name: "branding",
           color: "pink-text-gradient",
         },
       ],
