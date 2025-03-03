@@ -51,7 +51,7 @@ const About = () => {
   return (
     <>
       <div className="flex xs:flex-row flex-col justify-between content-end">
-        <div className="xs:w-[50%] w-full">
+        <div className="xs:w-[100%] w-full">
           <motion.div variants={textVariant()}>
             <p className={styles.sectionSubText}>Introduction</p>
             <h2 className={styles.sectionHeadText}>Overview.</h2>
@@ -61,19 +61,20 @@ const About = () => {
             variants={fadeIn("", "", 0.1, 1)}
             className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
           >
-            I'm a skilled designer with experience in 2D and 3D Graphic Design,
-            and expertise in softwares like Blender, Photoshop, and Illustrator.
-            I also have huge interests in UI-UX Designing and Web Development
-            and constantly looking for opportunities to try out this new field.
-            I'm a quick learner that can adapt to any situation to create the most
-            magnificent, efficient, and user-friendly products that solve
-            your problems. <br /> Let's work together to bring your ideas to life!
+            I am a skilled designer with experience in 2D and 3D Graphic Design, 
+            particularly semi-realism-style art design, and I strive to be the 
+            best in the fields in which I specialize. I am a quick learner that 
+            can adapt to any situation to create innovative and captivating visual 
+            solutions. My proficiency in industry-standard software, such as 
+            Adobe Creative Suite and Blender, allows me to produce high-quality 
+            designs efficiently. I am passionate about pushing the boundaries of 
+            creativity and continue to seek to expand my skill set through new challenges and experiences. <br /> Let's work together to bring your ideas to life!
           </motion.p>
         </div>
 
-        {myselfinfo.map((image, index) => (
+        {/* {myselfinfo.map((image, index) => (
           <MySelf key={myselfinfo.name} index={index} {...image} />
-        ))}
+        ))} */}
       </div>
 
       <div className='mt-20 flex flex-wrap gap-10'>
